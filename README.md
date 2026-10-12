@@ -1,0 +1,2 @@
+# AuraGlass
+Home Assistant Dashboard
