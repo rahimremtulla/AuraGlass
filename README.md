@@ -10,12 +10,25 @@ AuraGlass combines a clean, glassmorphic aesthetic with practical smart home fun
 
 Built entirely using Home Assistant's visual UI editor, it uses native Sections and Grid layout to create a flexible, responsive experience designed primarily for wall-mounted tablets.
 
-- 🪟 **Glassmorphic Design** - A modern, frosted-glass aesthetic with a clean, uncluttered interface.
-- 📱 **Responsive Layout** - Adapts to different screen sizes, with a primary focus on landscape wall-mounted tablets.
-- 🏠 **At-a-Glance Overview** - A carefully arranged main dashboard designed to fit on a landscape tablet screen with minimal or no scrolling.
-- 💡 **Home Control Centre** - Quick, one-tap controls for everyday actions, including switching off all lights and managing central heating.
-- 🎵 **Integrated Media Centre** - Amazon Alexa and Sonos integration for convenient control of music, speakers, and your smart home audio experience.
-- ⚡ **Energy Dashboard** - Monitor household energy usage and keep track of consumption.
+- **Glassmorphic Design** - A modern, frosted-glass aesthetic with a clean, uncluttered interface.
+
+- **Responsive Layout** - Adapts to different screen sizes, with a primary focus on landscape wall-mounted tablets.
+
+- **At-a-Glance Overview** - A carefully arranged main dashboard designed to fit on a landscape tablet screen with minimal or no scrolling.
+
+- **Room Overview & Presence Detection** - A centralised view of every room, with quick-access controls for lights, automations, fans, heating, and more. Room cards dynamically highlight when presence sensors detect someone in the room, providing an at-a-glance view of activity throughout your home.
+
+- **Home Control Centre** - Quick, one-tap controls for everyday actions, including switching off all lights and managing central heating.
+
+- **Integrated Media Centre** - Amazon Alexa and Sonos integration for convenient control of music, speakers, and your smart home audio experience.
+
+- **Energy Dashboard** - Monitor household energy usage and keep track of consumption.
+
+- **Live Camera Feeds** - View connected home security cameras directly from the dashboard.
+
+- **Appliance Control Centre** - Check the status of household appliances, including washing machine progress and water softener salt levels.
+
+- **Native Home Assistant UI** - Built entirely through the visual dashboard editor using native Sections and Grid layout, without a manually maintained dashboard YAML file.
 
 ## 🙏 Acknowledgements
 
