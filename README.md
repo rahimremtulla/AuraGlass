@@ -1,4 +1,4 @@
-<p align="center"><img width="360" height="360" alt="AuraGlass" src="https://github.com/user-attachments/assets/1122867c-296f-4749-b67e-e40a8779d1e3" /></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/1ede52d2-5251-42ab-8518-3010a7aa0082" width="354" height="354" alt="AuraGlass-Logo" /></p>
 
 # 💠 AuraGlass Home Assistant Dashboard
 
