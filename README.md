@@ -1,3 +1,5 @@
+<p align="center"><img width="360" height="360" alt="AuraGlass" src="https://github.com/user-attachments/assets/1122867c-296f-4749-b67e-e40a8779d1e3" /></p>
+
 # 💠 AuraGlass Home Assistant Dashboard
 
 A refined adaptation of djmalaka's <a href="https://github.com/djmalaka/Abode-Dashboard/" target="_blank">Abode Dashboard</a>, updated with tweaks and compatibility fixes for newer versions of Home Assistant.
