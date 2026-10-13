@@ -4,10 +4,10 @@ A refined adaptation of djmalaka's <a href="https://github.com/djmalaka/Abode-Da
 
 ![AuraGlass Home Assistant Dashboard](https://github.com/user-attachments/assets/3071b50b-5399-48f1-be33-2d8369455ed4)
 
-<table style="border:0;">
+<table style="border: 0;">
   <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/3b25e510-b1c1-4fd2-aa53-c0a3e4a9e540" height="700" /></td>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/6d49b6bc-6679-4cf0-92f9-0c98bdc5b56a" height="700" /></td>
+    <td valign="top" style="border: 0 !important;"><img src="https://github.com/user-attachments/assets/3b25e510-b1c1-4fd2-aa53-c0a3e4a9e540" height="700" /></td>
+    <td valign="top" style="border: 0 !important;"><img src="https://github.com/user-attachments/assets/6d49b6bc-6679-4cf0-92f9-0c98bdc5b56a" height="700" /></td>
   </tr>
 </table>
 
