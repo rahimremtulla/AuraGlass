@@ -1,8 +1,21 @@
-# ✨ AuraGlass Home Assistant Dashboard
+# 💠 AuraGlass Home Assistant Dashboard
 
 A refined adaptation of djmalaka's <a href="https://github.com/djmalaka/Abode-Dashboard/" target="_blank">Abode Dashboard</a>, updated with tweaks and compatibility fixes for newer versions of Home Assistant.
 
 ![AuraGlass Home Assistant Dashboard](https://github.com/user-attachments/assets/3071b50b-5399-48f1-be33-2d8369455ed4)
+
+## ✨ Features
+
+AuraGlass combines a clean, glassmorphic aesthetic with practical smart home functionality, bringing everything together in one centralised interface.
+
+Built entirely using Home Assistant's visual UI editor, it uses native Sections and Grid layout to create a flexible, responsive experience designed primarily for wall-mounted tablets.
+
+- 🪟 **Glassmorphic Design** - A modern, frosted-glass aesthetic with a clean, uncluttered interface.
+- 📱 **Responsive Layout** - Adapts to different screen sizes, with a primary focus on landscape wall-mounted tablets.
+- 🏠 **At-a-Glance Overview** - A carefully arranged main dashboard designed to fit on a landscape tablet screen with minimal or no scrolling.
+- 💡 **Home Control Centre** - Quick, one-tap controls for everyday actions, including switching off all lights and managing central heating.
+- 🎵 **Integrated Media Centre** - Amazon Alexa and Sonos integration for convenient control of music, speakers, and your smart home audio experience.
+- ⚡ **Energy Dashboard** - Monitor household energy usage and keep track of consumption.
 
 ## 🙏 Acknowledgements
 
